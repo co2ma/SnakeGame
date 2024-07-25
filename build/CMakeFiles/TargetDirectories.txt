@@ -1,0 +1,3 @@
+/Users/comma/C++2023/snake/build/CMakeFiles/snakeGame.dir
+/Users/comma/C++2023/snake/build/CMakeFiles/edit_cache.dir
+/Users/comma/C++2023/snake/build/CMakeFiles/rebuild_cache.dir
